@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.0.0/onda_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.1.0/onda_1.1.0_windows_amd64.zip",
             "bin": [
                 "onda.exe"
             ],
-            "hash": "0d08cd78dc3cb15f18eee501e585bd433fa487ecc27919220d037143750478e2"
+            "hash": "1395536b235ce441de80cce8d4010cbc0c4d5162fbfa59a28d00d87cd52640d0"
         },
         "arm64": {
-            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.0.0/onda_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.1.0/onda_1.1.0_windows_arm64.zip",
             "bin": [
                 "onda.exe"
             ],
-            "hash": "eb1bc8077d5c76a2f7690826c0b3acecb3b178092e384a51bce2de560b296712"
+            "hash": "9085a30b234224c92701e9ed9b6ed94b91fce13f659a6ca18b3244000699f8a1"
         }
     },
     "homepage": "https://github.com/pedrosousa13/onda",
