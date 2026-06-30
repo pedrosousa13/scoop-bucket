@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.0.0/onda_1.0.0_windows_amd64.zip",
+            "bin": [
+                "onda.exe"
+            ],
+            "hash": "0d08cd78dc3cb15f18eee501e585bd433fa487ecc27919220d037143750478e2"
+        },
+        "arm64": {
+            "url": "https://github.com/pedrosousa13/onda/releases/download/v1.0.0/onda_1.0.0_windows_arm64.zip",
+            "bin": [
+                "onda.exe"
+            ],
+            "hash": "eb1bc8077d5c76a2f7690826c0b3acecb3b178092e384a51bce2de560b296712"
+        }
+    },
+    "homepage": "https://github.com/pedrosousa13/onda",
+    "license": "MIT",
+    "description": "Ethical, privacy-minded radios-of-the-world TUI"
+}
